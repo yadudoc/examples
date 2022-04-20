@@ -24,7 +24,7 @@ Using funcX with Binder
 
 The easiest way to run these tutorials is via Binder. Using Binder you can run the tutorial notebooks in your browser without installing any code locally.
 
-`Start Binder <https://mybinder.org/v2/gh/funcx-faas/examples/HEAD?filepath=notebooks%2FIntroduction.ipynb>`_
+`Start Binder <https://mybinder.org/v2/gh/yadudoc/examples/main?labpath=Introduction.ipynb>`_
 
 Using funcX locally
 ===================
